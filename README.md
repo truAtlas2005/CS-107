@@ -17,7 +17,7 @@ Loyola University Maryland
 
 ***
 #### Project 2 Title
-- ![Image](link-to-image)
+![Image](https://talent500.com/blog/wp-content/uploads/sites/42/2022/05/PythonToolKit_Banner.png)
 - Write-up here
 
 ***
