@@ -16,11 +16,11 @@ Loyola University Maryland
 - [Read the Report](https://studentsloyola-my.sharepoint.com/:w:/g/personal/hcgood_loyola_edu/ES5jUk1SuAFKhDyIzwYmSWcB5GUFUxx0jktjeYgQLceQJw?e=YM0drr)
 
 ***
-#### Project 2 Title
+#### Assorted Python Projects
 ![Image](https://talent500.com/blog/wp-content/uploads/sites/42/2022/05/PythonToolKit_Banner.png)
-- Write-up here
+- [Browse the Collection](https://docs.google.com/document/d/1v-P9sbtf3fqTs7JY9hDoJAFOFv044LPXSFfapszczw0/edit?usp=sharing)
 
 ***
-#### Project 3 Title
-- ![Image](link-to-image)
-- Write-up here
+#### Assorted Java Projects
+- ![Image](https://talent500.com/blog/wp-content/uploads/sites/42/2022/05/JavaToolKit_Banner.png)
+- [Browse the Collection](https://docs.google.com/document/d/1rlwcMKgFKTCvTGZK7tKFo2q34ReuuQt64EhKFerR6uE/edit?usp=sharing)
