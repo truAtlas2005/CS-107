@@ -3,9 +3,9 @@
 # Henry Good
 
 ### About Me
-I'm a passionate biology student at Loyola University Maryland, working toward a career at the intersection of conservation and science education. With a strong foundation in ecological and evolutionary biology, data analysis, and hands-on lab techniques like PCR and cell culture, I thrive on turning complex scientific ideas into understandable and impactful work.
+I'm a passionate biology student at Loyola University Maryland, working toward a career at the intersection of conservation and science education. With a strong foundation in ecological and evolutionary biology, data analysis, and hands-on lab techniques like PCR and cell culture, I thrive on turning complex scientific ideas into understandable and impactful nuggets of knowledge.
 
-My background includes independent research on the effects of mycorrhizal fungi on crop growth, recognized at the Minnesota State Science and Engineering Fair, and leadership experience as a former Eagle Scout and fencing team captain. I'm committed to continuous learning, problem-solving, and bringing energy and creativity to every project I take on — whether it’s in the lab, the classroom, or the field.
+My background includes independent research on the effects of orchid mycorrhizal fungi on crop growth, recognition at the Minnesota State Science and Engineering Fair, and leadership experience as an Eagle Scout and fencing team captain. I'm committed to continuous learning, problem-solving, and bringing energy and creativity to every project I take on — whether it’s in the lab, the classroom, or out in the field.
 
 When I’m not studying or working, you’ll find me diving into tabletop games, discussing big ideas at Philosophy Club, or planning my next outdoor adventure.
 
