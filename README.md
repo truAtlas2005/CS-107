@@ -19,7 +19,7 @@ Loyola University Maryland
 ![Image](https://www.mathworks.com/products/matlab-home/_jcr_content/mainParsys/band_1508284908_copy/mainParsys/columns_copy_2070482_1536975955/1/panel_copy/headerImage.adapt.full.medium.jpg/1744782963836.jpg)
 - Summary:
 This project focused on applying statistical analysis tools in MATLAB to real-world health data. By leveraging MATLAB’s built-in functions, I conducted ANOVA tests to identify significant differences between groups, calculated correlation coefficients to explore relationships between variables, and summarized findings through descriptive statistics. Additionally, I managed and cleaned the dataset by manipulating matrices and tables, culminating in the export of organized results to an Excel file for easy sharing and further analysis.
-- [Read the Report](https://studentsloyola-my.sharepoint.com/:w:/g/personal/hcgood_loyola_edu/ES5jUk1SuAFKhDyIzwYmSWcB5GUFUxx0jktjeYgQLceQJw?e=YM0drr)
+- [Read the Report](https://1drv.ms/p/c/4c05319f49be44d1/ERjyG3uAtedKrBsGyf3L8-oBUwqv6_VxJnQKagI6oKSskA?e=sqfOWO)
 
 ***
 #### Assorted Python Projects
